@@ -1,2 +1,2 @@
 #!/usr/bin/python3
-exec("_='#pythoniscool';print(_)")
+exec("_='#pythoniscool';write(_)")
