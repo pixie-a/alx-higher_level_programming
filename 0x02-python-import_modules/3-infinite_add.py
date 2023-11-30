@@ -1,7 +1,16 @@
 #!/usr/bin/python3
 if __name__ == "__main__":
     import sys
-    result = 0
-    for i in range(len(sys.argv) - 1):
-        result += int(sys.argv[i + 1])
-        print("{}".format(result))
+    def arg(argv):
+
+        arg(sys.argv)
+        x = len(argv) - 1
+        if x == 0:
+            print("{}".format(x))
+        else:
+            result = 0
+            i = 1
+            while i <= x:
+                result += int(argv[i])
+                i += 1
+            print("{}".format(result))
