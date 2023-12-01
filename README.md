@@ -17,3 +17,5 @@
 [Derek Banas’ Learn to program](https://www.youtube.com/playlist?list=PLGLfVvz_LVvTn3cK5e6LjhgGiSeVlIRwt)
 
 [Python bytecode](https://docs.python.org/3.4/library/dis.html)
+
+[Pycodestyle](https://github.com/PyCQA/pycodestyle/issues/466) is now the new standard of Python style code
