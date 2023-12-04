@@ -21,3 +21,9 @@
 [Python bytecode](https://docs.python.org/3.4/library/dis.html)
 
 [Pycodestyle](https://github.com/PyCQA/pycodestyle/issues/466) is now the new standard of Python style code
+
+## More:
+
+[Common Object Structures](https://docs.python.org/3.4/c-api/structures.html)
+
+[List Objects](https://docs.python.org/3.4/c-api/list.html)
