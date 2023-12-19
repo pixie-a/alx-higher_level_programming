@@ -1,6 +1,7 @@
 # High_level_programming * Python
 
-![Uploading image.png…]()
+![image](https://github.com/pixie-a/alx-higher_level_programming/assets/101095081/d1b668af-4ec7-4df3-bec8-b8acf2be988f)
+
 
 
 ## Resources:
