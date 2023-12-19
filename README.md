@@ -1,6 +1,6 @@
 # High_level_programming * Python
 
-![image](https://github.com/pixie-a/alx-higher_level_programming/assets/101095081/d1b668af-4ec7-4df3-bec8-b8acf2be988f)
+[![image](https://github.com/pixie-a/alx-higher_level_programming/assets/101095081/d1b668af-4ec7-4df3-bec8-b8acf2be988f)](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/231/48a9fdbd67c84a328a9df9ec8d93b9ac2458ac37721d7d53e51a27fb2bdc5263.jpg)
 
 
 
