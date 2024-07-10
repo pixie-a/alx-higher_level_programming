@@ -1,4 +1,7 @@
--- Lists all privileges of the MySQL users user_0d_1 and user_0d_2
-SHOW GRANTS FOR 'user_0d_1'@'localhost';
-SHOW GRANTS FOR 'user_0d_2'@'localhost';
-
+-- Creates the table hbtn_0d_usa with table states.
+CREATE DATABASE IF NOT EXISTS `hbtn_0d_usa`;
+CREATE TABLE IF NOT EXISTS `hbtn_0d_usa`.`states` (
+    PRIMARY KEY(`id`),
+    `id`   INT          NOT NULL AUTO_INCREMENT,
+    `name` VARCHAR(256) NOT NULL
+);
